@@ -37,7 +37,7 @@
     field.appendChild(s);
   };
 
-  // Traducciones
+// Traducciones
 const translations = {
   es: {
     brandTag:"Dev · Games",
